@@ -1,6 +1,7 @@
-- Hi, I’m @DaviStarlight, also known as just Davi. I'm a 19 year old Brazilian developer, currently studying Computer Science
-- At the moment outside of college and all by myself, I'm learning game development through the popular engine "Unreal", using the latest version, coding through C++
-- I have 1 year experience at coding (basically yes, a baby coder, but passionate with programming) I believe I learned a lot through this journey so far and I feel very proud about it.. With all my humbleness, I consider myself a beginner developer, looking forward on improving my skills so I can put my creativity and ideas to fruition and codes
-- I also have huge interest on becoming a full-stack web developer as well. I have passion for projects that implement and improve all kind of technologies
-- I’m looking to collaborate on effective ways, provide my suggestions, so we are able to put in action the greatest applications and ideas, such as web development, game development or pretty much anything I can help with.
-- If you want to talk about projects, looking for collaborations or simply have a conversation with me, we can communicate through discord. My discord user is "davi_starlight".
+- Hi, I’m @DaviStarlight, also known as just Davi. I'm a 20-year-old Brazilian developer, currently studying Computer Science.  
+- Outside of college, I'm independently learning game development using the popular engine *Unreal Engine 5* (latest version), coding in C++ and Blueprints. I also develop in *Unity*, working with C#.  
+- I have **two years of experience** in coding (basically, yes, a baby coder—but passionate about programming). I believe I’ve learned a lot on this journey so far, and I feel very proud of it. With all humility, I consider myself a beginner developer, eager to improve my skills so I can bring my creativity and ideas to life through code.  
+- I also have a strong interest in becoming a full-stack web developer. I’m passionate about projects that implement and enhance various technologies.  
+- Currently, I work at *Maxipas Saúde Ocupacional* in Curitiba, Brazil, where I’ve been for about four months. There, I develop using C#.  
+- I’m looking to collaborate effectively, share my ideas, and contribute to bringing great applications and concepts to life—whether in web development, game development, or anything else I can help with.  
+- If you’d like to discuss projects, collaborate, or just chat, feel free to reach out on Discord. My username is *davi_starlight*.  
