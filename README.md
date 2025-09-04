@@ -43,6 +43,5 @@ Discord: **davi_starlight**
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DaviStarlight&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviStarlight&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
