@@ -1,7 +1,48 @@
-- Hi, I’m @DaviStarlight, also known as just Davi. I'm a 20-year-old Brazilian developer, currently studying Computer Science.  
-- Outside of college, I'm independently learning game development using the popular engine *Unreal Engine 5* (latest version), coding in C++ and Blueprints. I also develop in *Unity*, working with C#.  
-- I have **two years of experience** in coding (basically, yes, a baby coder—but passionate about programming). I believe I’ve learned a lot on this journey so far, and I feel very proud of it. With all humility, I consider myself a beginner developer, eager to improve my skills so I can bring my creativity and ideas to life through code.  
-- I also have a strong interest in becoming a full-stack web developer. I’m passionate about projects that implement and enhance various technologies.  
-- Currently, I work at *Maxipas Saúde Ocupacional* in Curitiba, Brazil, where I’ve been for about four months. There, I develop using C#.  
-- I’m looking to collaborate effectively, share my ideas, and contribute to bringing great applications and concepts to life—whether in web development, game development, or anything else I can help with.  
-- If you’d like to discuss projects, collaborate, or just chat, feel free to reach out on Discord. My username is *davi_starlight*.  
+# Hi, I’m Davi — @DaviStarlight  
+
+## About Me  
+- 20-year-old Brazilian developer & Computer Science student.  
+- Independent learner of **Game Development**:  
+  - Building with Unreal Engine 5 (C++ & Blueprints).  
+  - Experimenting with Unity (C#).  
+- 2 years of coding experience — still a beginner, but passionate about programming and proud of my journey so far.  
+- Strong interest in **Full-Stack Web Development** — fascinated by projects that blend technologies and creativity.  
+- Currently working at *Maxipas Saúde Ocupacional* (Curitiba, Brazil), developing with C#.  
+
+---
+
+## What I’m Working On  
+- Sharpening my skills in Unreal Engine 5 for immersive game development.  
+- Exploring the possibilities of modern web technologies.  
+- Collaborating, sharing ideas, and helping bring applications and concepts to life.  
+
+---
+
+## Tech & Tools  
+- **Languages & Frameworks**  
+  - C++, C#, JavaScript, Python  
+  - Unreal Engine 5, Unity, .NET  
+- **Web Stack (learning path)**  
+  - React, TypeScript, Node.js, MySQL  
+- **Tools I Use**  
+  - Git & GitHub  
+  - VS Code, Rider, Visual Studio  
+  - Figma for UI/UX design  
+
+---
+
+## Philosophy  
+*"With humility, I consider myself a beginner developer, eager to improve my skills so I can bring my creativity and ideas to life through code."*  
+
+---
+
+## Contact  
+Open to collaborations in web development, game development, or any creative projects.  
+Discord: **davi_starlight**  
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DaviStarlight&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviStarlight&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
+</p>
