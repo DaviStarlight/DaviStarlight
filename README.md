@@ -1,47 +1,133 @@
-# Hi, I’m Davi — @DaviStarlight  
+# Hello, I’m Davi — @DaviStarlight
 
-## About Me  
-- 20-year-old Brazilian developer & Computer Science student.  
-- Independent learner of **Game Development**:  
-  - Building with Unreal Engine 5 (C++ & Blueprints).  
-  - Experimenting with Unity (C#).  
-- 2 years of coding experience — still a beginner, but passionate about programming and proud of my journey so far.  
-- Strong interest in **Full-Stack Web Development** — fascinated by projects that blend technologies and creativity.  
-- Currently working at *Maxipas Saúde Ocupacional* (Curitiba, Brazil), developing with C#.  
+## About Me
 
----
-
-## What I’m Working On  
-- Sharpening my skills in Unreal Engine 5 for immersive game development.  
-- Exploring the possibilities of modern web technologies.  
-- Collaborating, sharing ideas, and helping bring applications and concepts to life.  
-
----
-
-## Tech & Tools  
-- **Languages & Frameworks**  
-  - C++, C#, JavaScript, Python  
-  - Unreal Engine 5, Unity, .NET  
-- **Web Stack (learning path)**  
-  - React, TypeScript, Node.js, MySQL  
-- **Tools I Use**  
-  - Git & GitHub  
-  - VS Code, Rider, Visual Studio  
-  - Figma for UI/UX design  
+* 20-year-old Brazilian developer & Computer Science student.
+* Currently working **extensively with APIs in C# .NET**, building scalable and maintainable backend services.
+* Strongly focused on **Full-Stack Web Development**, creating high-performance modern web apps.
+* Growing as a full-stack developer, building modern web applications using:
+  * TypeScript, React, Vite, Supabase, PostgreSQL, Tailwind, shadcn/ui, and a wide range of tools focused on performance and UX.
+* Practical experience with **agile methodologies (SCRUM)**, version control and collaborative development.
+* Passionate learner of **Game Development**, exploring Unreal Engine 5 (C++/Blueprints) and Unity (C#).
+  * Working with Unreal Engine 5 (C++ & Blueprints).
+  * Experimenting with Unity (C#).
+  * Also developed for fun Roblox Games (Lua & LuaU)
+* 3 years of coding experience — still a beginner in mindset, but extremely dedicated and proud of my growth.
+* Currently working at *Maxipas Saúde Ocupacional* (Curitiba, Brazil).
 
 ---
 
-## Philosophy  
-*"With humility, I consider myself a beginner developer, eager to improve my skills so I can bring my creativity and ideas to life through code."*  
+## What I’m Working On
+
+* Building and consuming **RESTful APIs** in .NET with clean, scalable architecture.
+* Designing secure and scalable database architecture (RLS, triggers, enums, functions, indexes).
+* Building **Flownance**, a complete Personal Finance Management app using:
+  * React + TypeScript + Vite
+  * Supabase (PostgreSQL, Auth, Storage, Realtime, Edge Functions)
+  * Tailwind CSS + shadcn/ui + Radix UI
+  * Hono for lightweight REST APIs
+  * Bun as package manager & JS runtime
+* Full-stack development with focus on clean code, security, performance and modern user experience.
+* Exploring new patterns, frameworks, architectures, and tools to level up my craft.
+* Exploring Unreal Engine 5 for immersive game development.
+* Collaborating, sharing ideas, and transforming concepts into functional applications.
 
 ---
 
-## Contact  
-Open to collaborations in web development, game development, or any creative projects.  
-Discord: **davi_starlight**  
+## Tech & Tools
+
+### **Languages & Frameworks**
+
+* TypeScript (primary)
+* JavaScript
+* SQL (migrations, triggers, RLS policies, functions)
+* C# (.NET APIs)
+* C++ (UE5)
+* Python
+
+### **Web Stack (current focus)**
+
+### **Frontend**
+
+* React and React DOM
+* TypeScript
+* Vite
+* React Router
+* shadcn/ui (built on Radix UI)
+* Tailwind CSS, PostCSS, Autoprefixer
+* Lucide React
+* date-fns
+* cmdk (Command Menu)
+* react-markdown, react-syntax-highlighter
+* framer-motion
+
+### **State & Architecture**
+
+* React Context API
+* React Hooks (useState, useEffect, useContext)
+* Custom Hooks (theme preferences, mobile detection, persistent state)
+* Zod and @hookform/resolvers
+* class-variance-authority (CVA)
+* clsx and tailwind-merge
+
+### **Backend & Cloud**
+
+* Supabase:
+  * PostgreSQL
+  * Auth
+  * Storage
+  * Realtime
+  * Edge Functions (serverless TypeScript)
+* Hono (minimalist Node/TypeScript API framework)
+* Node.js runtime
+* C# .NET backend development in production
+
+### **Database**
+* PostgreSQL with:
+  * Row Level Security (RLS)
+  * Triggers
+  * Stored Procedures (PL/pgSQL)
+  * Custom enums
+  * Optimized indexes
+  * Audit logs and automatic timestamps
+
+### **Tools I Use**
+
+* Bun
+* ESLint
+* Vite Plugins (@vitejs/plugin-react)
+* Git & GitHub
+* VS Code, Rider, Visual Studio
+* Postman & Insomnia
+* Figma for UI/UX design
+
+---
+
+## Philosophy
+
+*"With humility, I consider myself a beginner developer, eager to improve my skills so I can bring my creativity and ideas to life through code."*
+
+---
+
+## Contact
+
+Open to collaborations in fullstack development, game development, or any creative tech project.
+Discord: **davi_starlight**
 
 ---
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DaviStarlight&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviStarlight&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=DaviStarlight&theme=tokyonight&hide_border=true" />
 </p>
