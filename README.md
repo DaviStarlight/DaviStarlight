@@ -105,7 +105,7 @@
 
 ## Philosophy
 
-*"With humility, I consider myself a beginner developer, eager to improve my skills so I can bring my creativity and ideas to life through code."*
+*"I learn fast, iterate often, and stay grounded: always a beginner in spirit, always a builder in action."*
 
 ---
 
