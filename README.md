@@ -111,7 +111,7 @@
 
 ## Contact
 
-Open to collaborations in fullstack development, game development, or any creative tech project.
+Open to collaboration in full-stack development, game development, backend engineering or any creative tech project.
 Discord: **davi_starlight**
 
 ---
