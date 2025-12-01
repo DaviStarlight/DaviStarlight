@@ -1,4 +1,8 @@
-# Hello, I’m Davi — @DaviStarlight
+<h1 align="center">Hello, I'm your friendly neighborhood Davi!</h1>
+
+<p align="center">
+  <img src="https://octodex.github.com/images/spidertocat.png" width="200" alt="Spidertocat" />
+</p>
 
 ## About Me
 
@@ -21,7 +25,7 @@
 
 * Building and consuming **RESTful APIs** in .NET with clean, scalable architecture.
 * Designing secure and scalable database architecture (RLS, triggers, enums, functions, indexes).
-* Building **Flownance**, a complete Personal Finance Management app using:
+* Building **Flownance** https://flownance.com.br/, a complete Personal Finance Management app using:
   * React + TypeScript + Vite
   * Supabase (PostgreSQL, Auth, Storage, Realtime, Edge Functions)
   * Tailwind CSS + shadcn/ui + Radix UI
