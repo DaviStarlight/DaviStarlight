@@ -55,6 +55,8 @@
 
 <br>
 
+<img src="https://skillicons.dev/icons?i=ts,react,vite,tailwind,supabase,postgres,nodejs,dotnet,cs,bun,github,figma,postman&theme=dark" />
+
 <h3><strong>Languages & Frameworks</strong></h3>
 
 * TypeScript (primary)
@@ -137,20 +139,47 @@
 ---
 
 <details>
-  <summary><strong>Contact</strong></summary>
+  <summary><strong>Contact & Collaboration</strong></summary>
 
 <br>
 
-Open to collaboration in full-stack development, game development, backend engineering or any creative tech project.  
-Discord: **davi_starlight**
+Open to collaboration in <strong>Full-Stack</strong>, <strong>Backend</strong>, <strong>Game Development</strong>, and <strong>Creative Tech Projects</strong>.  
+If you have an idea, a challenge, or would like to discuss opportunities, feel free to reach out.
+
+<br>
+
+<p align="center">
+  <a href="mailto:davi.adames.cordeiro@gmail.com?subject=Hello%20Davi%20-%20Collaboration%20Opportunity&body=Hello%20Davi,%0A%0AI%20found%20your%20GitHub%20profile%20and%20would%20like%20to%20discuss%20a%20possible%20collaboration.%0A%0AProject%20or%20idea:%20%0A%0ABest%20regards," target="_blank">
+    <img src="https://img.shields.io/badge/Email-davi.adames.cordeiro%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="mailto:contato@flownance.com.br?subject=Flownance%20-%20Contact%20via%20GitHub&body=Hello,%0A%0AI%20am%20reaching%20out%20after%20finding%20Flownance%20through%20GitHub.%0A%0AMessage:%20" target="_blank">
+    <img src="https://img.shields.io/badge/Flownance-Business%20Contact-0D9488?style=for-the-badge&logo=maildotru&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://discordapp.com/users/davi_starlight" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-davi__starlight-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/davi-adames-cordeiro/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+
+<br>
 
 </details>
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DaviStarlight&theme=tokyo-night" />
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=DaviStarlight&theme=tokyonight&hide_border=true" />
