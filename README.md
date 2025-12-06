@@ -4,7 +4,12 @@
   <img src="https://octodex.github.com/images/spidertocat.png" width="200" alt="Spidertocat" />
 </p>
 
-## About Me
+---
+
+<details>
+  <summary><strong>About Me</strong></summary>
+
+<br>
 
 * 20-year-old Brazilian developer & Computer Science student.
 * Currently working **extensively with APIs in C# .NET**, building scalable and maintainable backend services.
@@ -19,9 +24,14 @@
 * 3 years of coding experience — still a beginner in mindset, but extremely dedicated and proud of my growth.
 * Currently working at *Maxipas Saúde Ocupacional* (Curitiba, Brazil).
 
+</details>
+
 ---
 
-## What I’m Working On
+<details>
+  <summary><strong>What I’m Working On</strong></summary>
+
+<br>
 
 * Building and consuming **RESTful APIs** in .NET with clean, scalable architecture.
 * Designing secure and scalable database architecture (RLS, triggers, enums, functions, indexes).
@@ -36,11 +46,16 @@
 * Exploring Unreal Engine 5 for immersive game development.
 * Collaborating, sharing ideas, and transforming concepts into functional applications.
 
+</details>
+
 ---
 
-## Tech & Tools
+<details>
+  <summary><strong>Tech & Tools</strong></summary>
 
-### **Languages & Frameworks**
+<br>
+
+<h3><strong>Languages & Frameworks</strong></h3>
 
 * TypeScript (primary)
 * JavaScript
@@ -49,9 +64,9 @@
 * C++ (UE5)
 * Python
 
-### **Web Stack (current focus)**
+<h3><strong>Web Stack (current focus)</strong></h3>
 
-### **Frontend**
+<h3><strong>Frontend</strong></h3>
 
 * React and React DOM
 * TypeScript
@@ -65,7 +80,7 @@
 * react-markdown, react-syntax-highlighter
 * framer-motion
 
-### **State & Architecture**
+<h3><strong>State & Architecture</strong></h3>
 
 * React Context API
 * React Hooks (useState, useEffect, useContext)
@@ -74,7 +89,7 @@
 * class-variance-authority (CVA)
 * clsx and tailwind-merge
 
-### **Backend & Cloud**
+<h3><strong>Backend & Cloud</strong></h3>
 
 * Supabase:
   * PostgreSQL
@@ -86,7 +101,8 @@
 * Node.js runtime
 * C# .NET backend development in production
 
-### **Database**
+<h3><strong>Database</strong></h3>
+
 * PostgreSQL with:
   * Row Level Security (RLS)
   * Triggers
@@ -95,7 +111,7 @@
   * Optimized indexes
   * Audit logs and automatic timestamps
 
-### **Tools I Use**
+<h3><strong>Tools I Use</strong></h3>
 
 * Bun
 * ESLint
@@ -105,18 +121,30 @@
 * Postman & Insomnia
 * Figma for UI/UX design
 
+</details>
+
 ---
 
-## Philosophy
+<details>
+  <summary><strong>Philosophy</strong></summary>
+
+<br>
 
 *"I learn fast, iterate often, and stay grounded: always a beginner in spirit, always a builder in action."*
 
+</details>
+
 ---
 
-## Contact
+<details>
+  <summary><strong>Contact</strong></summary>
 
-Open to collaboration in full-stack development, game development, backend engineering or any creative tech project.
+<br>
+
+Open to collaboration in full-stack development, game development, backend engineering or any creative tech project.  
 Discord: **davi_starlight**
+
+</details>
 
 ---
 
