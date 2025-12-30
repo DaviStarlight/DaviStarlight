@@ -179,8 +179,10 @@ If you have an idea, a challenge, or would like to discuss opportunities, feel f
 
 ---
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DaviStarlight&theme=tokyo-night" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DaviStarlight&theme=tokyo-night" />
+</p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=DaviStarlight&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=DaviStarlight&theme=tokyonight" />
 </p>
