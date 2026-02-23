@@ -11,7 +11,7 @@
 
 <br>
 
-* 20-year-old Brazilian developer & Computer Science student.
+* 21-year-old Brazilian developer & Computer Science student.
 * Currently working **extensively with APIs in C# .NET**, building scalable and maintainable backend services.
 * Strongly focused on **Full-Stack Web Development**, creating high-performance modern web apps.
 * Growing as a full-stack developer, building modern web applications using:
