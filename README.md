@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm your friendly neighborhood Davi!</h1>
+<h1 align="center">👋 Hello, I'm your friendly neighborhood Davi! 🕷️💻</h1>
 
 <p align="center">
   <img src="https://octodex.github.com/images/spidertocat.png" width="200" alt="Spidertocat" />
