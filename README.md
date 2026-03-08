@@ -7,7 +7,7 @@
 ---
 
 <details>
-  <summary><strong>About Me 🧑‍💻</strong></summary>
+  <summary><strong>📌 About Me 🧑‍💻</strong></summary>
 
 <br>
 
@@ -29,7 +29,7 @@
 ---
 
 <details>
-  <summary><strong>What I’m Working On 🛠️</strong></summary>
+  <summary><strong>🚀 What I’m Working On 🛠️</strong></summary>
 
 <br>
 
@@ -51,7 +51,7 @@
 ---
 
 <details>
-  <summary><strong>Tech & Tools 🖥️</strong></summary>
+  <summary><strong>⚡ Tech & Tools 🖥️</strong></summary>
 
 <br>
 
@@ -128,7 +128,7 @@
 ---
 
 <details>
-  <summary><strong>Philosophy 💡</strong></summary>
+  <summary><strong>📜 Philosophy 💡</strong></summary>
 
 <br>
 
@@ -139,7 +139,7 @@
 ---
 
 <details>
-  <summary><strong>Contact & Collaboration 🌐</strong></summary>
+  <summary><strong>📬 Contact & Collaboration 🌐</strong></summary>
 
 <br>
 
