@@ -180,9 +180,9 @@ If you have an idea, a challenge, or would like to discuss opportunities, feel f
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DaviStarlight&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DaviStarlight&bg_color=05070D&color=E5E7EB&line=FFD700&point=ebc600&area=true&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=DaviStarlight&theme=tokyonight" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=DaviStarlight&bg_color=05070D&theme=github_dark&hide_border=true" />
 </p>
