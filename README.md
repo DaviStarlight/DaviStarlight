@@ -184,5 +184,5 @@ If you have an idea, a challenge, or would like to discuss opportunities, feel f
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=DaviStarlight&background=05070D&hide_border=true&currStreakLabel=A855F7&currStreakNum=A855F7&ring=A855F7&fire=A855F7&sideNums=C9D1D9&sideLabels=C9D1D9&dates=9CA3AF&stroke=2F3B52" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=DaviStarlight&bg_color=05070D&theme=github_dark&hide_border=true" />
 </p>
