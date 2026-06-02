@@ -15,5 +15,5 @@
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DaviStarlight&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DaviStarlight&bg_color=07001A&color=E5E7EB&line=622EFF&point=8963FF&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DaviStarlight&bg_color=07001A&color=E5E7EB&line=2E31FF&point=4046FF&area=true&hide_border=true" />
 </p>
