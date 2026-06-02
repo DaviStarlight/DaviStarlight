@@ -11,9 +11,9 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=DaviStarlight&background=07001A&hide_border=true&ring=622EFF&fire=622EFF&currStreakNum=7389FF&currStreakLabel=E5E7EB&sideNums=E5E7EB&sideLabels=E5E7EB&dates=E5E7EB&stroke=2A174D" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=DaviStarlight&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DaviStarlight&layout=compact&theme=github_dark&hide_border=true" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DaviStarlight&bg_color=07001A&color=E5E7EB&line=622EFF&point=8963FF&area=true&hide_border=true" />
 </p>
