@@ -1,3 +1,16 @@
+<table align="center">
+  <tr>
+    <td align="right">
+      <img
+        src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUycWFlYzgzMXh0OXBtaGJlYnNnaG9xbGJpYjZieGZsMWFqN295Zjg3cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TRtXbqJpUnFPq/200.gif"
+        alt="Link tocando ocarina"
+      />
+      <br>
+      <i>Hey, listen!</i>
+    </td>
+  </tr>
+</table>
+
 <h2><strong>Stack</strong></h3>
 
 <p align="center">
