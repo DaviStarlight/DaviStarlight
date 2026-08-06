@@ -6,7 +6,11 @@
         alt="Link tocando ocarina"
       />
       <br>
-      <i>Hey, listen!</i>
+      <img
+        src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyc3ozMTlnZnR6cDN4ajM0azQxejFwM3FiNmowYnlqMDg5ZjNwZ2ZoYSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/NS0bXSSo8nIFbDDSb5/source.gif"
+        alt="Navizinha"
+        width="40"
+      />
     </td>
   </tr>
 </table>
