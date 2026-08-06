@@ -31,3 +31,9 @@
   <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=DaviStarlight&theme=github_dark&hide_border=true" />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DaviStarlight&layout=compact&theme=github_dark&hide_border=true" />
 </p>
+
+<p align="right">
+  <img
+    src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Illuminati_triangle_eye.png"
+    width="10"
+</p>
