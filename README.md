@@ -1,20 +1,3 @@
-<table align="center">
-  <tr>
-    <td align="right">
-      <img
-        src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUycWFlYzgzMXh0OXBtaGJlYnNnaG9xbGJpYjZieGZsMWFqN295Zjg3cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TRtXbqJpUnFPq/200.gif"
-        alt="Link tocando ocarina"
-      />
-      <br>
-      <img
-        src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyc3ozMTlnZnR6cDN4ajM0azQxejFwM3FiNmowYnlqMDg5ZjNwZ2ZoYSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/NS0bXSSo8nIFbDDSb5/source.gif"
-        alt="Navizinha"
-        width="40"
-      />
-    </td>
-  </tr>
-</table>
-
 <h2><strong>Stack</strong></h3>
 
 <p align="center">
