@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://www.gitskins.com/showcase/space-shooter.gif" />
+</p>
+
 <h2><strong>Stack</strong></h3>
 
 <p align="center">
